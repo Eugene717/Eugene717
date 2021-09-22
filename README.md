@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eugene&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
 <!--
 **Eugene717/Eugene717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
