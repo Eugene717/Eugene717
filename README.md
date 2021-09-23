@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eugene&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene717)](https://github.com/Eugene717/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71)](https://github.com/Eugene717/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
