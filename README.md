@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eugene&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--START_SECTION:waka-->
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71)](https://github.com/Eugene71/github-readme-stats)
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
