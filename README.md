@@ -4,6 +4,9 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71)](https://github.com/Eugene71/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
