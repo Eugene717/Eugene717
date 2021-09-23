@@ -6,6 +6,9 @@
 <!--![](https://komarev.com/ghpvc/?username=Eugene717&color=brightgreen)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
