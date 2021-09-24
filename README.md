@@ -7,7 +7,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--![](https://komarev.com/ghpvc/?username=Eugene717&color=brightgreen)
+<!--![](https://komarev.com/ghpvc/?username=Eugene717&color=brightgreen) -->
 
 <!--START_SECTION:waka-->
 
