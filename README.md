@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eugene&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--![![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71)](https://github.com/Eugene717/github-readme-stats)
-[](https://komarev.com/ghpvc/?username=Eugene717&color=brightgreen) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eugene&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+![![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene717)](https://github.com/Eugene71/github-readme-stats)
+[](https://komarev.com/ghpvc/?username=Eugene717&color=brightgreen)
+
+
 
 <!--START_SECTION:waka-->
 ```text
