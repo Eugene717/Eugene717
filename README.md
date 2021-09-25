@@ -13,7 +13,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&theme=chartreuse-dark&border=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00)" />
+      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&theme=chartreuse-dark&border=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eugene717&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00" />
