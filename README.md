@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.Eugene717">-->
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&width=550&lines=Hello%2C+world!;My+name+is+Eugene;and+i+only+program+in+C%2B%2B;because+i+want+to+develop+games">
+  </a>
+</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -43,8 +49,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eugene717&theme=chartreuse-dark&border=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Eugene717&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+programmers are weird in their own way so I decided to make the account look like this
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71&border_color=00FF00&bg_color=000000&title_color=00FF00&text_color=00FF00&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71&border_color=00FF00&bg_color=000000&title_color=00FF00&text_color=00FF00&v=2)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&width=550&lines=Hello%2C+world!;My+name+is+Eugene;and+i+only+program+in+C%2B%2B;because+i+want+to+develop+games)](https://git.io/typing-svg)-->
 
 <!--
 **Eugene717/Eugene717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
