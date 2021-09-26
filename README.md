@@ -5,12 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&width=550&lines=Hello%2C+world!;My+name+is+Eugene;and+i+only+program+in+C%2B%2B;because+i+want+to+develop+games">
   </a>
 </h1>
+  
+<p align="center">
+  <code>
+    <a href="https://www.instagram.com/__yudzhin___/" title="Instagram Profile"><img width="32" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  
 
-<a href="https://www.instagram.com/__yudzhin___/"><img width="32px" alt="Instagram Profile" title="Instagram Profile" src="https://github.com/Eugene717/Eugene717/blob/main/images/inst.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<code><a href="https://www.instagram.com/__yudzhin___/" title="Instagram Profile"><img width="32" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
