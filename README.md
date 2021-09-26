@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.Eugene717">-->
 
 <h1 align="center">
@@ -8,6 +6,9 @@
   </a>
 </h1>
 
+
+
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -55,6 +56,8 @@ programmers are weird in their own way so I decided to make the account look lik
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&width=550&lines=Hello%2C+world!;My+name+is+Eugene;and+i+only+program+in+C%2B%2B;because+i+want+to+develop+games)](https://git.io/typing-svg)-->
 
 <!--
+### Hi there 👋
+
 **Eugene717/Eugene717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
