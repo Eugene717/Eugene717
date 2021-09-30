@@ -50,7 +50,7 @@ about me, but i`m lazy now
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&theme=chartreuse-dark&border=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&v=2" />
+      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&border=00FF00&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&v=2" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eugene717&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00&v=2" />
