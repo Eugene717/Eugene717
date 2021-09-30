@@ -66,11 +66,8 @@ about me, but i`m lazy now
   <img src="https://activity-graph.herokuapp.com/graph?username=Eugene717&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
+  
+  
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Eugene717&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugene717&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00)](https://github.com/anuraghazra/github-readme-stats)
