@@ -44,16 +44,16 @@ about me, but i`m lazy now
 <p align=center>
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width = "75%" src="https://github-profile-trophy.vercel.app/?username=Eugene717&theme=darkhub&no-frame=true" />
+      <img align="center" width = "75%" src="https://github-profile-trophy.vercel.app/?username=Eugene717&theme=darkhub&no-frame=true&v=2" />
     </a>
     <br><br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&theme=chartreuse-dark&border=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00" />
+      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&theme=chartreuse-dark&border=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&v=2" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eugene717&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eugene717&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00&v=2" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -63,7 +63,7 @@ about me, but i`m lazy now
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Eugene717&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Eugene717&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true&v=2" width="100%"/>
 </p>
 
   
