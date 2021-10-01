@@ -36,7 +36,7 @@ about me, but i`m lazy now
 <code><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></code>    
-  .
+  
   </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
