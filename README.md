@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.instagram.com/__yudzhin___/" title="Instagram Profile"><img width="32" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://steamcommunity.com/profiles/76561198189518437/" title="Steam Profile"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png"> Steam</a></code>
+  <code><a href="https://steamcommunity.com/id/Shadxw_71/" title="Steam Profile"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png"> Steam</a></code>
   
 <!--  </h5>
 <br>
